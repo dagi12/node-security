@@ -6,3 +6,12 @@ body {
 a {
   color: #00B7FF;
 }
+
+
+html,body {
+  background: #7436ff;
+}
+
+form {
+  margin: 0 auto;
+}
